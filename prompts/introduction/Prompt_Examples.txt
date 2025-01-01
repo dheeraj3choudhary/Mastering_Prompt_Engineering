@@ -1,0 +1,55 @@
+Example 1: ### Text-based: 
+Write a motivational quote about teamwork.
+
+Example 2: ### Code snippet: 
+Help me fix the error in the following code where I am trying to loop through a list and print each element, but it's not working correctly:
+numbers = [1, 2, 3, 4]
+for num in numbers:
+print(num)
+Explain what is causing the issue and provide the corrected code version.
+
+Example 3: ### Context-based cue: 
+Imagine you are a teacher explaining why recycling is important.
+
+Specify, clarify, iterate: Giving precise instructions helps AI understand your needs better. If the first response isn’t perfect, you can clarify or tweak your prompt to make it more specific. This back-and-forth process refines the output until it matches what you want.
+Example:
+### Specify
+Write a story about friendship
+### Refine
+Write a short story about two kids becoming friends at school.
+### Clarify further
+Write a 200-word story about two kids becoming friends at school after helping each other during a project
+
+Intent, context, constraint: A good prompt clearly states what you want (intent), includes details to provide background (context), and sets limits to guide the AI’s response (constraints). This ensures the AI delivers focused, relevant, and well-structured results.
+Example:- Intent, context, constraint
+### Intent
+Explain renewable energy.
+### Context: 
+Focus on solar and wind power.
+### Constraints: 
+Limit the explanation to 3 sentences.
+
+Role-playing prompts (e.g., “act as an expert”): Asking the AI to "act as an expert" in a field helps it respond with deeper, more knowledgeable answers, like getting advice from someone who knows a lot about the subject.
+Example: "Act as a doctor and explain how to treat a common cold."
+
+Instruction-based prompts (clear, step-by-step commands): Explanation: Giving step-by-step instructions helps the AI follow a clear process, ensuring the response is logical and organized.
+Example: "First, explain the concept of prompt engineering, then give an example, and finally summarize why it's important."
+
+
+Open vs. closed-ended questions: Open-ended questions let the AI generate detailed responses, while closed-ended questions lead to brief, yes/no answers. Choose based on how much detail you need.
+Example:
+Open-ended: "How does gravity work?"
+Closed-ended: "Is gravity important?"
+
+
+Providing context or examples to steer output: Adding context or examples helps the AI understand exactly what kind of response you expect, leading to more relevant and precise answers.
+Example: "Give an example of a time-saving cooking tip for busy parents."
+
+
+
+
+
+
+
+
+
