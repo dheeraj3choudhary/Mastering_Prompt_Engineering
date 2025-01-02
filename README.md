@@ -26,18 +26,19 @@
 
 ## 📋 TABLE OF CONTENTS 📋
 - **Introduction to Prompt Engineering: What, Why, and How**
+- **Few Shot And Zero Shot Prompts: Complete Guide for AI Prompt Engineering**
 
 ### Day 1: Introduction to Prompt Engineering: What, Why, and How
 
 - **Overview:** How Prompt Engineering Works: Techniques, Challenges & Best Practices.
-- **Resources:** Basic example prompts to get started. Get here [Prompts](https://github.com/dheeraj3choudhary/Mastering_Prompt_Engineering/tree/main/prompts/introduction).
-- **Video Tutorial:** Watch here [Video1](https://youtu.be/UptDGRwQhus).
+- **Resources:** Basic example prompts to get started. [Prompts](https://github.com/dheeraj3choudhary/Mastering_Prompt_Engineering/tree/main/prompts/introduction).
+- **Video Tutorial:** [Watch here](https://youtu.be/UptDGRwQhus).
 
 ### Day 2: Few Shot And Zero Shot Prompts: Complete Guide for AI Prompt Engineering
 
 - **Overview:** Understand the difference between zero-shot and few-shot prompting, and when to use each.
-- **Video Tutorial:** Watch here [Video1](https://youtu.be/bHkhFmm_-tU).
-- **Resources:** Example prompts demonstrating both approaches. Get here [Prompts](https://github.com/dheeraj3choudhary/Mastering_Prompt_Engineering/tree/main/prompts/zero-shot-few-shot)
+- **Video Tutorial:** [Watch here](https://youtu.be/bHkhFmm_-tU).
+- **Resources:** Example prompts demonstrating both approaches. [Prompts](https://github.com/dheeraj3choudhary/Mastering_Prompt_Engineering/tree/main/prompts/zero-shot-few-shot)
 
 ## 📂 Repository Structure
 
