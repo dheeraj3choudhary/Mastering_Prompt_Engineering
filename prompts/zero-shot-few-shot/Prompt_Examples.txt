@@ -1,0 +1,34 @@
+Translate these sentences to French:
+- 'Hello' → 'Bonjour'
+- 'How are you?' → 'Comment ça va?'
+- 'Goodbye' → 'Au revoir' 
+Now translate  'Good Morning'
+
+================================================================================================================================================
+Real-world Example Prompt 1: 
+Example 1:
+Q: How do you structure a blog about prompt engineering?
+A: "Start with an introduction, then explain what prompt engineering is, its importance, and conclude with its future potential in AI."
+Example 2:
+Q: How do you incorporate SEO-optimized keywords into a blog on prompt engineering?
+A: "Include keywords like 'AI prompt engineering' and 'importance of prompt engineering' naturally throughout the blog, especially in headings and subheadings."
+Example 3:
+Q: How do you include an engaging example to explain prompt engineering concepts?
+A: "Use a relatable example, like how asking a smart assistant for ‘vacation ideas’ versus ‘best beach destinations in Europe’ shows the value of precise prompts."
+Now, create a professional blog about prompt engineering's significance in today's world, using a conversational tone, including SEO keywords naturally, and adding relatable examples.
+
+================================================================================================================================================
+Real-world Example Prompt 2: 
+Classify the quality of the following prompt as clear, unclear, or needs improvement.
+Example 1:
+Prompt: "Explain the basics of AI."
+Quality: Unclear
+Example 2:
+Prompt: "Describe the process of training a machine learning model, including data preprocessing, feature selection, and model evaluation."
+Quality: Clear
+Example 3:
+Prompt: "Tell me about AI."
+Quality: Needs improvement
+Now, classify the quality of the following prompt:
+Prompt: "How does prompt engineering impact AI models?"
+Quality:
