@@ -27,6 +27,7 @@
 ## 📋 TABLE OF CONTENTS 📋
 - **Introduction to Prompt Engineering: What, Why, and How**
 - **Few Shot And Zero Shot Prompts: Complete Guide for AI Prompt Engineering**
+- **The Complete Guide to Role & Context Based Prompts in Artificial Intelligence**
 
 ### Day 1: Introduction to Prompt Engineering: What, Why, and How
 
@@ -39,6 +40,12 @@
 - **Overview:** Understand the difference between zero-shot and few-shot prompting, and when to use each.
 - **Video Tutorial:** [Watch here](https://youtu.be/bHkhFmm_-tU).
 - **Resources:** Example prompts demonstrating both approaches. [Prompts](https://github.com/dheeraj3choudhary/Mastering_Prompt_Engineering/tree/main/prompts/zero-shot-few-shot)
+
+### Day 3: The Complete Guide to Role & Context Based Prompts in Artificial Intelligence
+
+- **Overview:** Discover how setting roles and contexts can improve AI responses.
+- **Video Tutorial:** [Watch here](https://youtu.be/cUukP3C7CD0).
+- **Resources:** Custom role-based and context-driven prompts.[Prompts](https://github.com/dheeraj3choudhary/Mastering_Prompt_Engineering/tree/main/prompts/role-context-based)
 
 ## 📂 Repository Structure
 
