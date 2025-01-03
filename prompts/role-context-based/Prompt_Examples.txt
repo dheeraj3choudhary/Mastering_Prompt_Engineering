@@ -1,0 +1,21 @@
+Role-based Prompts Examples:
+
+Example 1: As a customer service representative, assist the user with their inquiry about account issues or product returns.
+Example 2: As a prompt engineer, craft a prompt that ensures an AI can write a step-by-step guide for setting up a small e-commerce website using Shopify.
+Example 3: As a student, create a study schedule for preparing for final exams in mathematics, and physics, with clear goals for each day.
+Example 4:As a machine learning engineer, design a deep learning model for sentiment analysis of social media posts, ensuring it can handle both positive and negative feedback accurately.
+
+=======================================================================================================================================================================
+Context-based Prompts Examples:
+
+Example 1: Provide travel recommendations based on the user’s destination and time of year (e.g., summer in Tokyo or winter in Paris).
+Example 2: You are an AI customer support agent for an online bookstore. A customer is asking about the status of their recent order, which was supposed to arrive yesterday. Respond in a polite and helpful manner, offering possible solutions for delayed shipments.
+Example 3: You are writing a blog post about sustainable living practices. The target audience is young professionals living in urban areas. Create an engaging introduction that explains why sustainability matters, while also providing practical tips on reducing waste and energy consumption at home.
+
+=======================================================================================================================================================================
+Role-Context-based Prompts Examples:
+
+Example 1: As a customer service representative, help the user with product recommendations based on their travel destination and weather preferences (e.g., recommending suitable clothing for a trip to Paris in winter).
+Example 2: As a content writer, create a concise and engaging product description for a new Bluetooth speaker, highlighting its key features and benefits for tech enthusiasts.
+Example 3: As a software developer, help a colleague debug an error in a Python script that’s causing a "ValueError" during data input processing in a web application.
+Example 4: As a prompt engineer, create a prompt that generates a short sci-fi story set in a futuristic city where humans coexist with AI-driven robots, focusing on their relationship and potential conflicts.
