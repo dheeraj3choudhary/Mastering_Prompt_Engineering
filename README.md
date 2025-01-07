@@ -29,6 +29,7 @@
 - **Few Shot And Zero Shot Prompts: Complete Guide for AI Prompt Engineering**
 - **The Complete Guide to Role & Context Based Prompts in Artificial Intelligence**
 - **How to Use Chain of Thoughts Prompts for Smarter AI Responses**
+- **RISEN Prompt Framework: Step-by-Step Guide for Defining AI Roles and Goals**
 
 ### Day 1: Introduction to Prompt Engineering: What, Why, and How
 
@@ -53,6 +54,12 @@
 - **Overview:** Explore how Chain of Thought prompts enable logical step-by-step reasoning.
 - **Video Tutorial:** [Watch here](https://youtu.be/DWE4LiZ4R_w).
 - **Resources:** Examples showcasing CoT prompting for complex tasks.[Prompts](https://github.com/dheeraj3choudhary/Mastering_Prompt_Engineering/tree/main/prompts/chain-of-thought)
+
+### Day 5: RISEN Prompt Framework: Step-by-Step Guide for Defining AI Roles and Goals
+
+- **Overview:** Dive into the RISEN framework for crafting precise and actionable prompts.
+- **Video Tutorial:** [Watch here](https://youtu.be/5vYXqOx2IwI).
+- **Resources:** Sample prompts using the RISEN framework. [Prompts](https://github.com/dheeraj3choudhary/Mastering_Prompt_Engineering/tree/main/prompts/risen-framework)
 
 ## 📂 Repository Structure
 
