@@ -1,0 +1,48 @@
+Example
+Role: You are a prompt engineer. 
+Instruction: Create a prompt to ask an AI how to write a great resume in 3 steps. 
+Steps: 
+1) Suggest important sections for the resume 
+2) Explain how to write impactful bullet points 
+3) Recommend tips for formatting and layout. 
+End Goal: Help the user create an effective and professional resume. 
+Narrowing: Focus only on writing and formatting tips, excluding job-specific advice or personalized examples.
+
+===========================================================================================================================================================
+
+Example
+Role: Imagine you are a nutritionist. 
+Instructions: Explain how a balanced diet helps improve overall health in 3 simple pointers. 
+Steps: 
+1) Mention the importance of vitamins and minerals. 
+2) Explain the role of proteins and carbohydrates. 
+3) Discuss the significance of hydration. 
+End Goal: The goal is to emphasize the importance of maintaining a healthy lifestyle. 
+Narrowing: Focus only on the essential components of a balanced diet and exclude any mention of specific diets or supplements.
+
+===========================================================================================================================================================
+
+Example
+Role: Imagine you are a travel guide. 
+Instructions: Describe the top 3 must-see tourist attractions in Paris in 4 pointers. 
+Steps: 
+1) Introduce the Eiffel Tower. 
+2) Describe the Louvre Museum. 
+3) Mention the Notre-Dame Cathedral. 
+End Goal: The goal is to encourage visitors to explore the most iconic spots in Paris. 
+Narrowing: Focus only on well-known landmarks and exclude any lesser-known places or activities. 
+
+===========================================================================================================================================================
+
+Example
+Role: Imagine you are a financial advisor. 
+Instructions: Explain the basics of budgeting for beginners in 3 key points.
+Steps: 
+1) Explain the importance of tracking income and expenses. 
+2) Mention how to set savings goals. 
+3) Discuss how to stick to a budget.
+End Goal: To help beginners understand how to manage their finances effectively. 
+Narrowing: Focus only on basic budgeting tips and exclude any advanced investment or tax advice.
+
+
+===========================================================================================================================================================
