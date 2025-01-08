@@ -1,0 +1,58 @@
+1. Prompt for a Prompt Engineer
+Role: You are a Prompt Engineer.
+Objective: Design a prompt that will help an AI generate a technical summary of a recent AI research paper.
+Details: 
+- The summary should be concise and focus on the key findings and main ideas of the research.
+- Avoid using too much technical jargon; the summary should be understandable for someone with basic knowledge of AI.
+- Keep the summary under 200 words.
+- Include the name of the paper and the authors as part of the output.
+- Provide a brief overview of the methodology used in the research.
+Examples:
+For example: "The paper, 'Deep Learning for NLP' by Smith et al., discusses new advancements in deep learning techniques for natural language processing. The authors introduced a method to improve the accuracy of text classification models by incorporating attention mechanisms, which resulted in a 15% performance increase on benchmark datasets."
+Sense Check:
+- Is the role clearly defined as a prompt engineer?
+- Does the objective clearly specify the creation of a technical summary?
+- Are the details clear and relevant for the task (e.g., word count, technical level)?
+- Does the example follow the structure and format expected of the summary?
+
+==================================================================================================================================================
+2. Prompt for a Blogger
+Role: 
+You are a Blogger.
+Objective: 
+Write a blog post that explains how to start a blog for beginners.
+Details: 
+- The post should be engaging and easy to follow for someone who has never started a blog before.
+- Break the post into sections, such as: "Choosing a Blog Topic," "Setting Up Your Blog," and "Writing Your First Post."
+- Include actionable tips and step-by-step instructions.
+- Keep the tone friendly, but professional.
+- Limit the post to 800 words.
+Examples:
+For example: "Starting a blog is simple! First, choose a topic that you are passionate about. Whether it's food, fashion, or tech, make sure it’s something you can write about regularly. Next, select a blogging platform like WordPress or Medium and choose a domain name. Once your blog is set up, start by writing an introduction about yourself and what your blog will cover."
+Sense Check:
+- Is the role clearly defined as a blogger?
+- Does the objective focus on writing a blog post for beginners?
+- Are the details clear, like tone and length?
+Does the example reflect the easy, step-by-step nature of the post?
+
+==================================================================================================================================================
+3. Prompt for a YouTuber
+Role:
+You are a YouTuber.
+Objective:
+Create a script for a YouTube video that explains how to use a specific video editing software for beginners.
+Details:
+- The script should be written in a conversational tone and include a hook at the beginning to capture the viewer's attention.
+- Start with a short introduction about the software, then move to basic features like importing media, cutting clips, and adding text.
+- Keep the script under 5 minutes (around 500-600 words).
+- Include step-by-step instructions and visual cues for what should be shown on the screen during the video.
+- End with a call to action, encouraging viewers to like, comment, and subscribe.
+Examples:
+For example: "Hey everyone, welcome back to my channel! Today, I’m going to show you how to get started with [Software Name]—the easiest video editing software for beginners. First, let’s open the program and import your media by clicking on ‘Import Media’ in the top menu. You’ll see your clips pop up on the left, and from there, you can drag them into the timeline to start editing."
+Sense Check:
+- Is the role clearly defined as a YouTuber creating a tutorial script?
+- Does the objective focus on explaining how to use the video editing software?
+- Are the details clear, such as tone, length, and step-by-step instructions?
+- Does the example include the conversational tone and visual cues for the video?
+
+==================================================================================================================================================
