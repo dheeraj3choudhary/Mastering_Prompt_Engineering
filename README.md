@@ -30,6 +30,7 @@
 - **The Complete Guide to Role & Context Based Prompts in Artificial Intelligence**
 - **How to Use Chain of Thoughts Prompts for Smarter AI Responses**
 - **RISEN Prompt Framework: Step-by-Step Guide for Defining AI Roles and Goals**
+- **Crafting Powerful AI Prompts with the RODES Framework**
 
 ### Day 1: Introduction to Prompt Engineering: What, Why, and How
 
@@ -60,6 +61,12 @@
 - **Overview:** Dive into the RISEN framework for crafting precise and actionable prompts.
 - **Video Tutorial:** [Watch here](https://youtu.be/5vYXqOx2IwI).
 - **Resources:** Sample prompts using the RISEN framework. [Prompts](https://github.com/dheeraj3choudhary/Mastering_Prompt_Engineering/tree/main/prompts/risen-framework)
+
+### Day 6: Crafting Powerful AI Prompts with the RODES Framework
+
+- **Overview:** Learn the RODES framework to design effective and comprehensive prompts.
+- **Video Tutorial:** [Watch here](https://youtu.be/ZveDjG7xCaw?si=M8VGFqJpf2oQB2XE).
+- **Resources:** Examples built with the RODES framework. [Prompts](https://github.com/dheeraj3choudhary/Mastering_Prompt_Engineering/tree/main/prompts/rodes-framework)
 
 ## 📂 Repository Structure
 
